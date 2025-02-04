@@ -35,14 +35,9 @@
         compatible = "zmk,combos";
 
         shiftbackspace {
-            bindings = <&kp DELETE>;
+            bindings = <&kp DEL>;
             key-positions = <46 66>;
             layers = <0>;
-        };
-
-        appledelete {
-            bindings = <&kp DELETE>;
-            key-positions = <35 66>;
         };
     };
 
