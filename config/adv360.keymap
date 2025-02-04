@@ -37,6 +37,7 @@
         shiftbackspace {
             bindings = <&kp DELETE>;
             key-positions = <46 66>;
+            layers = <0>;
         };
     };
 
