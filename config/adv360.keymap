@@ -35,7 +35,7 @@
         compatible = "zmk,combos";
 
         shiftbackspace {
-            bindings = <&kp C_AC_DEL>;
+            bindings = <&kp DELETE>;
             key-positions = <46 66>;
             layers = <0>;
         };
